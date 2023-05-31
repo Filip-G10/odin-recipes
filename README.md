@@ -1,2 +1,2 @@
 # odin-recipes
-Recipes Project
+TOP HTML project: basic testing of HTML, links, lists, and files.
